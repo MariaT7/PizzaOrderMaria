@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Assignments\PizzaOrderMaria\PizzaOrderMaria\bin\Debug\PizzaOrderMaria.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Assignments\PizzaOrderMaria\PizzaOrderMaria\bin\Debug\PizzaOrderMaria.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Assignments\PizzaOrderMaria\PizzaOrderMaria\bin\Debug\PizzaOrderMaria.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Assignments\PizzaOrderMaria\PizzaOrderMaria\obj\Debug\PizzaOrderMaria.frmPizza.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Assignments\PizzaOrderMaria\PizzaOrderMaria\obj\Debug\PizzaOrderMaria.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Assignments\PizzaOrderMaria\PizzaOrderMaria\obj\Debug\PizzaOrderMaria.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Assignments\PizzaOrderMaria\PizzaOrderMaria\obj\Debug\PizzaOrderMaria.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Assignments\PizzaOrderMaria\PizzaOrderMaria\obj\Debug\PizzaOrderMaria.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Assignments\PizzaOrderMaria\PizzaOrderMaria\obj\Debug\PizzaOrderMaria.csprojResolveAssemblyReference.cache
